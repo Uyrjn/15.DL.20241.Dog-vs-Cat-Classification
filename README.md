@@ -1,4 +1,4 @@
-1. CNN(95%)
+1.CNN(95%)
 https://www.kaggle.com/code/sachinpatil1280/cats-vs-dogs-image-classification-using-cnn-95?fbclid=IwY2xjawHFPylleHRuA2FlbQIxMAABHRJrC13r-5bukFpfU8HxDLRl0x-kI2TsTyX_lJtAdjTqCzjLvasKhEbTYA_aem_nroR4sfYsx40BmJw21uuLQ
 
 2.Cats Vs Dogs TF ACC 99%+ using resnet50
