@@ -1,4 +1,5 @@
-1.https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.kaggle.com%2Fcode%2Fsachinpatil1280%2Fcats-vs-dogs-image-classification-using-cnn-95%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR0Sawtd6_uW7pBaX1PB8Qy0ZdMfpCNk7E8l_5SbQHY06gs4y72rCoRG02A_aem_nroR4sfYsx40BmJw21uuLQ&h=AT1gzKS2y-EK02VE99zUsRx6oW-ExmaNmcKOmsC8MagL8neFmd_N5qh1KIR85iJPygy5sJv1xFkA527eEfNMrwA4f-pGky2vWNIBzsI8k7rtVXylGOAGEhFDdMB-LKFGJHHrrQ  
+1. CNN(95%)
+https://www.kaggle.com/code/sachinpatil1280/cats-vs-dogs-image-classification-using-cnn-95?fbclid=IwY2xjawHFPylleHRuA2FlbQIxMAABHRJrC13r-5bukFpfU8HxDLRl0x-kI2TsTyX_lJtAdjTqCzjLvasKhEbTYA_aem_nroR4sfYsx40BmJw21uuLQ
 
 2.https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.kaggle.com%2Fcode%2Fomarghazy56%2Fcats-vs-dogs-tf-acc-99-using-resnet50%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR0Su38Lu-Vxdp2DOURJi9xXUQ4GI_bEaHg2oH-Ea5BN20nGt6Z0_LZ3iwY_aem_SmtJLLsL6xoZoU6ox5xSpw&h=AT1EmzA16MuNrFtLV5yDt74wIPBPFU_2U3NWMaZItbqG1W2GcMmPEKq992Z6Cgxh7B3KEp9v5CUKDbapgfFcDxTUHIRzL25BmVFTTijqi4-KfQWZsyTEnsBGKkcuDbR9c2ZQ8Q
   
