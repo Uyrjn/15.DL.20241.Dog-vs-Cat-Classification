@@ -1,5 +1,5 @@
-1.CNN(95%)
-https://www.kaggle.com/code/sachinpatil1280/cats-vs-dogs-image-classification-using-cnn-95?fbclid=IwY2xjawHFPylleHRuA2FlbQIxMAABHRJrC13r-5bukFpfU8HxDLRl0x-kI2TsTyX_lJtAdjTqCzjLvasKhEbTYA_aem_nroR4sfYsx40BmJw21uuLQ
+1.CNN Keras (98.7%)
+[[https://www.kaggle.com/code/sachinpatil1280/cats-vs-dogs-image-classification-using-cnn-95?fbclid=IwY2xjawHFPylleHRuA2FlbQIxMAABHRJrC13r-5bukFpfU8HxDLRl0x-kI2TsTyX_lJtAdjTqCzjLvasKhEbTYA_aem_nroR4sfYsx40BmJw21uuLQ](https://data-flair.training/blogs/cats-dogs-classification-deep-learning-project-beginners/)](https://data-flair.training/blogs/cats-dogs-classification-deep-learning-project-beginners/)
 
 2.Cats Vs Dogs TF ACC 99%+ using resnet50
 https://www.kaggle.com/code/omarghazy56/cats-vs-dogs-tf-acc-99-using-resnet50?fbclid=IwY2xjawHFP4FleHRuA2FlbQIxMAABHRK7fwu75XF2nYM5REmL3FdRDgYj9sRoeDagf4RrkE3bSca3pnT8tneLBg_aem_SmtJLLsL6xoZoU6ox5xSpw  
